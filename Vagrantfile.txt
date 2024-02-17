@@ -1,0 +1,5 @@
+/home/mitchellh/projects/foo/Vagrantfile 
+/home/mitchellh/projects/Vagrantfile 
+/home/mitchellh/Vagrantfile 
+/home/Vagrantfile 
+/Vagrantfile
